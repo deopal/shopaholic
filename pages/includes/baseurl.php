@@ -1,0 +1,14 @@
+<?php
+define("INDEX","http://localhost/Admin/admin_index.php");
+define("CAT","http://localhost/Admin/pages/category");
+define("SUBCAT","http://localhost/Admin/pages/sub-category");
+define("PRODUCTS","http://localhost/Admin/pages/products");
+define("PROFILE","http://localhost/Admin/pages/profile.php");
+define("DIST","http://localhost/Admin/dist");
+define("PLUGIN","http://localhost/Admin/plugins");
+define("LOGOUT","http://localhost/Admin/pages/logout.php");
+define("ORDERS","http://localhost/Admin/pages/orders/orders.php");
+define("USERS","http://localhost/Admin/pages/users.php");
+define("MSG","http://localhost/Admin/pages/messages.php");
+define("USER_PANEL","http://localhost/Admin/frontend/index.php");
+?>
